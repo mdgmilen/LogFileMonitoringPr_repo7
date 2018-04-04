@@ -1,0 +1,20 @@
+
+
+Implement a CLI tool application using Java. 
+
+A traffic spike on a high volume web service is written to multiple (millions) log files in one directory.
+
+The user of your app needs to troubleshoot and analyze the traffic spike.
+The app should show the HTTP response codes from the past ​ n ​ minutes on a running system quickly.
+
+-the app needs to specify last ​ n ​ minutes of the data to get with “-t” option
+-User of the app needs to specify the directory containing logs with “-d” option
+ 
+There are ​ n ​ number of log files in the directory that have an incrementing serial number
+on each rotation. The logs and log files are stored sequentially, i.e. from oldest to newest.
+
+Do not open all log files. Devise a way to open and read ​only​ relevant files, because we
+want the application to be efficient. In real world, the number of log and files might be
+huge.
+
+Create a fully object-oriented application. Write unit / functional tests for the app.

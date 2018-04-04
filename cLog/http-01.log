@@ -1,0 +1,12 @@
+127.0.0.1 user-identifier frank [10/Oct/2017:13:54:00 +0000] "GET /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:13:54:00 +0000] "GET1 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:14:54:00 +0000] "GET2 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:15:54:00 +0000] "GET3 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:16:54:00 +0000] "GET4 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:17:54:00 +0000] "GET5 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:18:54:00 +0000] "GET6 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [28/Feb/2018:13:39:00 +0000] "GET7 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [27/Feb/2018:20:54:00 +0000] "GET8 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [28/Feb/2018:10:24:00 +0000] "GET9 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [28/Feb/2018:13:40:00 +0000] "GET10 /api/endpoint HTTP/1.0" 200 5134
+127.0.0.1 user-identifier frank [28/Feb/2018:13:39:00 +0000] "GET11 /api/endpoint HTTP/1.0" 200 5134
